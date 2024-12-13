@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: #13111C;
+  color: #ffffff;
+}
+
+.swap-container {
+  background-color: #1B1921;
+  border: 1px solid #2D2D3D;
+}
